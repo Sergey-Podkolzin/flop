@@ -49,11 +49,11 @@ body .metaslider .flexslider .flex-direction-nav li {
     display: block;
     width: 100%;
     text-align: center;
-    font-size: 40px;
+    font-size: calc(10px + 2vw);
     text-transform: uppercase;
     background: linear-gradient(360deg, black, transparent);
     padding-bottom: 20px;
-    padding-top: 80px;
+    padding-top: 15px;
 }
 
 .metaslider img {

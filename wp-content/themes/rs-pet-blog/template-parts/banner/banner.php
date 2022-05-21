@@ -15,8 +15,8 @@ $button_link = get_theme_mod('banner_button_link', '#');
     <div class="container">
         <div class="row">
             <div class="col-md-12 align-self-center p-0">
-               <div class="hero-content mb-4 mb-md-0">
-               <?php echo do_shortcode('[metaslider id="57"]'); ?>
+               <div class="hero-content mb-md-0">
+               <?php echo do_shortcode('[metaslider id="92"]'); ?>
                </div>
             </div>
         </div>

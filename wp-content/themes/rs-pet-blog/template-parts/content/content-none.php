@@ -25,12 +25,12 @@
 			);
 		elseif ( is_search() ) :
 			?>
-			<p><?php esc_html_e( 'Sorry, but nothing matched your search terms. Please try again with some different keywords.', 'rs-pet-blog' ); ?></p>
+			<p><?php esc_html_e( 'По вашему запросу ничего не найдено', 'rs-pet-blog' ); ?></p>
 			<?php
 			get_search_form();
 		else :
 			?>
-			<p><?php esc_html_e( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'rs-pet-blog' ); ?></p>
+			<p><?php esc_html_e( 'Кажется, мы не можем найти то, что вы ищете. Возможно поиск поможет.', 'rs-pet-blog' ); ?></p>
 			<?php
 			get_search_form();
 		endif;

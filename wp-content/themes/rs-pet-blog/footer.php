@@ -28,25 +28,25 @@ $show_footer_social_links = get_theme_mod('show_footer_social_links', false);
 					</div><!-- .site-info -->
 				</div>
 				<div class="col-md-6">
-						<div class="" style="display: flex; justify-content: flex-end;">
-						<a target="_blank" href="#">
+						<div class="social-link-bottom">
+						<a target="_blank" href="https://vk.com/flop_flop_group">
 							<svg class="icon-sprite">
-  								<use xlink:href="wp-content\uploads\icons\sprite-icons.svg#vk"></use>
+  								<use xlink:href="\wp-content\uploads\icons\sprite-icons.svg#vk"></use>
 							</svg>
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://www.instagram.com/flop_flop_music/">
 							<svg class="icon-sprite">
-								<use xlink:href="wp-content\uploads\icons\sprite-icons.svg#instagram"></use>
+								<use xlink:href="\wp-content\uploads\icons\sprite-icons.svg#instagram"></use>
 							</svg>
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://zen.yandex.ru/flop_flop_music">
 							<svg class="icon-sprite">
-								<use xlink:href="wp-content\uploads\icons\sprite-icons.svg#yandex-zen"></use>
+								<use xlink:href="\wp-content\uploads\icons\sprite-icons.svg#yandex-zen"></use>
 							</svg>
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://t.me/flop_flop_music">
 							<svg class="icon-sprite">
-  								<use xlink:href="wp-content\uploads\icons\sprite-icons.svg#telegram"></use>
+  								<use xlink:href="\wp-content\uploads\icons\sprite-icons.svg#telegram"></use>
 							</svg>
 						</a>
 						</div>
